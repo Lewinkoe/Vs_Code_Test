@@ -1,0 +1,3 @@
+Server="lewintestserver2.mysql.database.azure.com"; port="3306" UserID = "LewinKoeslag";Password="Niwel123";Database="intro_sql";SslMode=Required;SslCa="C:\Users\U788402\Desktop\Vs_Code_Test\DigiCertGlobalRootG2.crt.pem";
+
+Server=myServerName\myInstanceName;Database=myDataBase;User Id=myUsername;Password=myPassword;
